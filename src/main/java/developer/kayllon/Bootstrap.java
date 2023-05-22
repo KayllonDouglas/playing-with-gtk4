@@ -55,7 +55,7 @@ public class Bootstrap {
             listBox.append(row);
             listBox.append(rowTwo);
 
-            var label = new Label(new Str("Capivara"));
+            var label = new Label(new Str("Something Cool"));
             label.setMarginStart(32);
             label.setMarginTop(32);
             label.setMarginBottom(32);
